@@ -1,2 +1,2 @@
 # Testowe
-Testowe repozytorium publiczna Monika
+Testowe repozytorium publiczne Monika
